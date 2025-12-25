@@ -66,18 +66,16 @@ Streams API and advanced optimizations are used where they improve clarity or pe
 
 ## 📁 Folder Structure
 
+```text
 LeetCode-Archive/
-│
 ├── arrays/
-│ └── TwoSum.java
-│
+│   └── TwoSum.java
 ├── linkedlist/
-│ └── ReverseLinkedList.java
-│
+│   └── ReverseLinkedList.java
 ├── stack_queue/
-│ └── ValidParentheses.java
-│
+│   └── ValidParentheses.java
 └── README.md
+
 
 
 📌 **Each folder contains**:
